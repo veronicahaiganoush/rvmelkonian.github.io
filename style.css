@@ -1,0 +1,46 @@
+html,body{
+  font-family:"Helvetica", sans-serif;
+  text-align:center;
+  min-width:260px;
+  color: white;
+  font-size: 70px;
+  background: black;
+}
+#main{
+
+  margin:
+  padding:
+  border:0px solid;
+  background: black;
+}
+img{
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: auto;
+  float: center;
+}
+#img-div{
+  margin:0px;
+  margin-top:0px;
+  width:100%;
+  background:#ffe2fa;
+}
+#img-caption{
+  margin:15px;
+}
+#headline{
+  margin-top:50px;
+  text-align:left;
+}
+ul{
+  max-width:550px;
+  margin:0 auto;
+  text-align:left;
+}
+li{
+  margin: 10px;
+}
+blockquote{
+  font-style: italic;
+}
